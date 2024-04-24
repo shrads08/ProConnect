@@ -1,4 +1,4 @@
-#ProConnect - A Professional Networking Platform
+# ProConnect - A Professional Networking Platform
 -------------------------------------------------------
 
 # Overview
@@ -15,8 +15,8 @@ Following are some of the issues with the professional networking.
 - Spam messages
 
 # Solution
- Working towards brainstorming a one-stop solution for above mentioned issues.
- -------------------Currently under discovery phase ---------------------
+-  Working towards brainstorming a one-stop solution for above mentioned issues.
+-  Currently under Discovery phase
  
 # License
 This project is licensed under the MIT License.
