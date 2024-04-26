@@ -17,6 +17,8 @@ Following are some of the issues with the professional networking.
 # Solution
 -  Working towards brainstorming a one-stop solution for above mentioned issues.
 -  Currently under Discovery phase
+
+https://shradhharaj1995.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiNDU3Zjg4NWJhNDI3NDU3ZDk2YzJjNmE1ZGNmODRlYWQiLCJwIjoiaiJ9
  
 # License
 This project is licensed under the MIT License.
