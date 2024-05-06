@@ -15,7 +15,7 @@ Following are some of the issues with the professional networking.
 - Spam messages
 
 # Solution
-A platform is envisioned where individuals can establish their professional profiles and connect with others within their industry or area of professional interest. This platform would also facilitate job searching and application processes.
+A platform (**for candidates**, ProConnect- professional networking platfrom can have different views/platforms for candidates and recruiters; the recruiter section will be tapped sooner) is envisioned where individuals can establish their professional profiles and connect with others within their industry or area of professional interest. This platform would also facilitate job searching and application processes.
 
 The platform ensures comprehensive and up-to-date job listings. Additionally, users have the advantage of requesting referrals from employees of companies they are interested in. Points are earned when a referral request is made and even for accepting referral requests, which can later be redeemed for learning courses.
 
